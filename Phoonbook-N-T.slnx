@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/01-Presentation/">
+    <Project Path="UI/UI.csproj" />
+  </Folder>
+  <Folder Name="/02-Business logic/">
+    <Project Path="BLL/BLL.csproj" />
+  </Folder>
+  <Folder Name="/03-Data Accsess/">
+    <Project Path="DAL/DAL.csproj" />
+  </Folder>
+</Solution>
